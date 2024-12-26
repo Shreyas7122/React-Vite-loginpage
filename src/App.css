@@ -91,6 +91,9 @@ button:hover {
 
 body {
   background-color: #eaf1d7;
+  background-image: url('./assets/bg.jpg'); 
+  background-size: cover; 
+  background-position: center;
   font-family: 'Arial', sans-serif;
   display: flex;
   justify-content: center;
